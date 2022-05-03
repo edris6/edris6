@@ -10,7 +10,7 @@ Im am badonyt, a young developer with a promosing future(hopefully)!
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a lot of projects
-- 🌱 I’m currently learning multiple languages
+- 🌱 I’m currently learning javascript, python, html, css, c#, cpp
 - 👯 I’m looking to collaborate on various projects
 - 🤔 I’m looking for help with the languages i know
 - 💬 Ask me about anything

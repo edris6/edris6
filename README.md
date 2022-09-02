@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 I suck at **c#, cpp** and **css**
 
+![](https://komarev.com/ghpvc/?username=badonyt&color=red)
+

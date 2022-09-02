@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im am a person(not like mark zuckerberg)
 
+I suck at **c#, cpp** and **css**
+

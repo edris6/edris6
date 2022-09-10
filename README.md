@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Im am a person(not like mark zuckerberg)
 - I suck at **c#, cpp** and **css**
 
-### Commits 📃
+### Contributions 📃
 
 * [BST](https://github.com/NoobJsPerson/speedrun-timer) (Better Speedrun Timer)
+* [DiscordBots](https://github.com/virejdasani/DiscordBots) (Examples of discord py bots)
 
 ![](https://komarev.com/ghpvc/?username=badonyt&color=red)
 

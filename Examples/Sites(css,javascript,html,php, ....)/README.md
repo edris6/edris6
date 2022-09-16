@@ -11,9 +11,13 @@
 
 # Cookies
 
-To create cookies and acess cookies you have to do this
+1. Create a js file and like it by in the html file using <code><script></script></code>, writing your javascript code inside the script or if you want to have an external script use <code><script src="example.js"></script></code>
+
+
+### Create Cookies:
 <code>document.cookie = "{name of the cookie}={value}; expires=Tues, 18 Dec 3068 12:00:00 UTC";</code>
 
+### Acess Cookies
 To acess cookies use this function from this link (src)[https://stackoverflow.com/questions/10730362/get-cookie-by-name]
 <code>
 function getCookie(name) {
@@ -22,3 +26,5 @@ function getCookie(name) {
     if (parts.length === 2) return parts.pop().split(';').shift();
 }
 </code>
+
+Doubts? Check Cookies.html

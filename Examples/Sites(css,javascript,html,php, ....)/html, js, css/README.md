@@ -9,6 +9,20 @@
 7. Congratulations, you did it
 8. Want to do anything more complicated just search up a tutorial
 
+Not working? Check basics.html
+
+# Modify text using js
+
+Create a p text in html<code><p id="te">testtest</p></code>, in javascript use this <code>document.getElementById("te").innerHTML = "nice";</code> it should change, congrats
+
+Doubts? check cookies.html
+
+# Buttons
+
+Create a button in html, and add an onclick <code><button onclick="test()">{any thing}</button></code> then create a script and create a function called test() and put anything there and then its gonna work, congrats
+
+Doubts? Check cookies.html
+
 # Cookies
 
 1. Create a js file and like it by in the html file using <code><script></script></code>, writing your javascript code inside the script or if you want to have an external script use <code><script src="example.js"></script></code>
@@ -27,4 +41,4 @@ function getCookie(name) {
 }
 </code>
 
-Doubts? Check Cookies.html
+Doubts? Check cookies.html

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="test()">test</button>
+    <p id="te">tetetete</p>
+</body>
+
+<script>
+    function test(){
+        document.cookie = "urmother=nice; expires=Tues, 18 Dec 3068 12:00:00 UTC";
+        document.getElementById("te").innerHTML = getCookie("urmother");
+    }
+    function getCookie(name) {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; ${name}=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+</script>
+</html>

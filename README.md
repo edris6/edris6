@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 * [BST](https://github.com/NoobJsPerson/speedrun-timer) (Better Speedrun Timer)
 * [DiscordBots](https://github.com/virejdasani/DiscordBots) (Examples of discord py bots)
+* [Javascript-Project](https://github.com/Tamanna-S/javaScript-projects) (Examples of **vanilla** javascript projects)
 
 ![](https://komarev.com/ghpvc/?username=badonyt&color=red)
 

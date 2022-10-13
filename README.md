@@ -14,7 +14,7 @@ Im more **front-end dev**, but i want to **learn back-end**.
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a lot of projects
-- 🌱 I’m currently learning javascript, python, html, css, c#, cpp, lua
+- 🌱 I’m currently learning javascript, python, html, css, c#, cpp, lua, rust
 - 👯 I’m looking to collaborate on various projects
 - 🤔 I’m looking for help with the languages i know
 - 💬 Ask me about anything

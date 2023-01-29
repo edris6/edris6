@@ -5,8 +5,8 @@ Im am badonyt, a young developer with a promosing future(hopefully)!
 Im more **front-end dev**, but i want to **learn back-end**.
 
 ### My Stats 📈
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=badonyt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![badonyt's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=badonyt&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badonyt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![badonyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=badonyt&show_icons=true&theme=tokyonight)
 [![Badonyt's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=badonyt&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **badonyt/badonyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
